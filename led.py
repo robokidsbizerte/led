@@ -1,7 +1,7 @@
 from gpiozero import LED
 from time import sleep
 
-led = LED(17)
+led = LED(18)
 
 print("Test LED sur GPIO 17 (Pin 11)... Ctrl+C pour arrêter.")
 
